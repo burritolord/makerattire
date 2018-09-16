@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1440"
-   height="1728"
-   viewBox="0 0 1532.9952 1839.5942"
+   width="3390.8909"
+   height="3419.8774"
+   viewBox="0 0 3609.8746 3640.733"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="MakeRepeat1.svg">
+   sodipodi:docname="MakeMakeMake.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,13 +26,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.20090152"
-     inkscape:cx="409.25308"
-     inkscape:cy="750.03045"
+     inkscape:cx="529.08665"
+     inkscape:cy="1872.2134"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1596"
-     inkscape:window-height="825"
+     inkscape:window-height="561"
      inkscape:window-x="0"
      inkscape:window-y="54"
      inkscape:window-maximized="0"
@@ -48,7 +48,11 @@
      inkscape:snap-global="false"
      showborder="false"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0" />
+     inkscape:measure-end="0,0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -65,7 +69,7 @@
      inkscape:label="Shirt"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-1177.3944)"
+     transform="translate(1049.6009,-570.90896)"
      style="display:inline">
     <g
        id="g2978"
@@ -122,7 +126,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Content"
-     transform="translate(0,-3909.1377)"
+     transform="translate(1049.6009,-3302.6523)"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
