@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="3390.8909"
-   height="3419.8774"
-   viewBox="0 0 3609.8746 3640.733"
+   width="1440"
+   height="1728"
+   viewBox="0 0 1532.9952 1839.5942"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="HeartSmallWins3.svg">
+   sodipodi:docname="MakerGonnaMake1.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28411765"
-     inkscape:cx="2159.5934"
-     inkscape:cy="1798.7829"
+     inkscape:zoom="0.20090152"
+     inkscape:cx="436.0165"
+     inkscape:cy="1097.9402"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="2556"
-     inkscape:window-height="1401"
+     inkscape:window-width="1596"
+     inkscape:window-height="789"
      inkscape:window-x="0"
-     inkscape:window-y="18"
+     inkscape:window-y="90"
      inkscape:window-maximized="0"
      inkscape:snap-page="false"
      inkscape:snap-grids="true"
@@ -46,13 +46,7 @@
      borderlayer="true"
      inkscape:showpageshadow="false"
      inkscape:snap-global="false"
-     showborder="false"
-     inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
+     showborder="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -69,7 +63,7 @@
      inkscape:label="Shirt"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1049.6009,-570.90896)"
+     transform="translate(0,-1177.3944)"
      style="display:inline"
      sodipodi:insensitive="true">
     <g
@@ -127,49 +121,39 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Content"
-     transform="translate(1049.6009,-3302.6523)">
+     transform="translate(0,-3909.1377)">
     <text
-       id="text4858"
-       y="4824.4307"
-       x="213.23187"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:171.11959839px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.79458088"
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:398.27096558px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:23.9252739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="93.886658"
+       y="4418.9033"
+       id="text1392"><tspan
+         sodipodi:role="line"
+         x="93.886658"
+         y="4418.9033"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:398.27096558px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ffffff;stroke-width:23.9252739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan1439">MAKER</tspan></text>
+    <text
+       id="text1472"
+       y="4816.3296"
+       x="104.48469"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:398.27096558px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:23.9252739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:171.11680603px;font-family:'Origami Mommy';-inkscape-font-specification:'Origami Mommy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.79458088"
-         y="4824.4307"
-         x="213.23187"
-         id="tspan4856"
-         sodipodi:role="line">SMALL</tspan></text>
+         id="tspan1470"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:398.27096558px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ffffff;stroke-width:23.9252739;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="4816.3296"
+         x="104.48469"
+         sodipodi:role="line">GONNA</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:487.03665161px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.26151776"
-       x="190.25372"
-       y="4650.9434"
-       id="text1241"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:492.07818604px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:29.56054115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="109.65558"
+       y="5299.1616"
+       id="text1476"><tspan
          sodipodi:role="line"
-         id="tspan1239"
-         x="190.25372"
-         y="4650.9434"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:487.02865601px;font-family:'Origami Mommy';-inkscape-font-specification:'Origami Mommy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.26151776">i</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:382.90579224px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.77799392"
-       x="193.94975"
-       y="5167.2739"
-       id="text1237"><tspan
-         sodipodi:role="line"
-         id="tspan1235"
-         x="193.94975"
-         y="5167.2739"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:382.89950562px;font-family:'Origami Mommy';-inkscape-font-specification:'Origami Mommy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.77799392">wins</tspan></text>
-    <g
-       transform="matrix(4.8764514,0,0,4.8764514,-141.5645,2149.2363)"
-       id="layer1-6"
-       style="fill:#ff0000">
-      <path
-         d="m 211.04,412.01 -34.25,25.781 v 41.594 l 77.469,87.625 77.531,-87.625 v -41.594 l -34.25,-25.781 -43.281,28.719 z m -1.3438,16.812 7.5625,10.062 -11.781,8.8438 v 10.75 h -12.594 v -17.031 l 16.812,-12.625 z"
-         id="path3840-7"
-         inkscape:connector-curvature="0"
-         style="fill:#ff0000" />
-    </g>
+         x="109.65558"
+         y="5299.1616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:492.07818604px;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#ffffff;stroke-width:29.56054115;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan1474">MAKE</tspan></text>
   </g>
 </svg>
