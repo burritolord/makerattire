@@ -9,13 +9,16 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="19632.559"
-   height="7684.9868"
-   viewBox="0 0 7157.638 2801.7925"
+   width="7907.5498"
+   height="3095.3386"
+   viewBox="0 0 2882.9344 1128.4986"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="JustKeepShipping.svg">
+   sodipodi:docname="JustKeepShipping.svg"
+   inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+   inkscape:export-xdpi="160"
+   inkscape:export-ydpi="160">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.035514706"
-     inkscape:cx="9119.5861"
-     inkscape:cy="9150.4827"
+     inkscape:zoom="0.071029412"
+     inkscape:cx="4941.5586"
+     inkscape:cy="24.690437"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1440"
+     inkscape:window-width="2556"
+     inkscape:window-height="1347"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="72"
      inkscape:window-maximized="0"
      inkscape:snap-page="false"
      inkscape:snap-grids="true"
@@ -67,12 +70,15 @@
      inkscape:label="Shirt"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1125.6846,-453.84104)"
+     transform="translate(1125.6846,-453.84106)"
      style="display:inline">
     <g
        style="fill:#333333;fill-opacity:1"
-       transform="matrix(1.1091958,0,0,1.1091958,2493.2672,-2970.8658)"
-       id="g7756">
+       transform="matrix(0.44675895,0,0,0.44675895,331.94727,-925.55332)"
+       id="g7756"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160">
       <path
          style="fill:#333333;fill-opacity:1;stroke:#000000;stroke-width:1.60887659;stroke-opacity:1"
          d="m -237.1354,5587.4765 c -36.2305,-1.1541 -49.0174,-1.7063 -111.4345,-4.8127 -44.2836,-2.204 -108.2212,-6.2003 -115.0346,-7.1902 -3.0971,-0.4499 -23.369,-2.2825 -45.0486,-4.0726 -62.71123,-5.1776 -118.67201,-10.9107 -156.86545,-16.0707 -19.46741,-2.6299 -36.14042,-4.7822 -37.05114,-4.7829 -1.01876,-6e-4 -1.4722,-4.1795 -1.17852,-10.861 0.48305,-10.9898 2.06824,-75.629 9.24255,-376.8793 3.91199,-164.2662 4.90258,-200.9697 6.4481,-238.9182 0.88987,-21.8501 1.56933,-47.7466 4.89663,-186.6297 1.29318,-53.9778 3.4011,-141.9431 4.68426,-195.4785 1.28316,-53.5354 2.80846,-114.9795 3.38953,-136.5425 0.70022,-25.9835 0.51221,-39.0057 -0.55749,-38.6131 -1.45729,0.5349 -26.09113,34.3663 -67.50815,92.7137 -8.60476,12.1222 -15.87334,20.8782 -16.83707,20.2826 -0.9327,-0.5764 -32.54782,-23.5307 -70.25582,-51.0095 -37.70799,-27.4788 -85.57386,-62.3532 -106.36859,-77.4988 -20.79473,-15.1456 -56.99445,-41.5507 -80.44384,-58.6781 -23.4494,-17.1274 -52.6064,-38.346 -64.7935,-47.1523 -15.0168,-10.8511 -21.699,-16.5973 -20.7332,-17.8289 1.4454,-1.8434 63.8737,-85.7168 113.72454,-152.7909 15.01964,-20.2088 43.59829,-58.5983 63.50814,-85.3099 19.90985,-26.7117 60.3925,-81.1286 89.96143,-120.9266 29.56895,-39.798 57.89767,-77.4443 62.95273,-83.6584 27.78918,-34.1609 60.91075,-65.8343 92.67969,-88.6274 16.79943,-12.053 29.56805,-18.5307 56.87495,-28.8532 19.0162,-7.1885 36.87489,-13.9535 89.29262,-33.8248 51.9582,-19.697 104.5049,-39.4414 144.8805,-54.4389 14.2605,-5.297 29.7033,-12.5672 41.8308,-19.6932 10.5737,-6.213 23.3879,-13.6428 28.476,-16.5107 5.0881,-2.8678 9.251,-6.09 9.251,-7.1604 0,-1.9534 6.0714,-2.4277 8.9301,-0.6976 8.2494,4.9927 121.6921,18.8838 181.1824,22.1858 36.6495,2.0342 103.2358,2.01 136.4895,-0.05 51.1001,-3.1651 141.353,-16.1199 147.5581,-21.1803 2.0657,-1.6846 5.9867,0.2985 36.6582,18.5405 8.8489,5.2629 19.7088,10.8759 24.1332,12.4733 4.4244,1.5974 19.6283,7.334 33.7864,12.748 14.1581,5.4141 33.3439,12.6249 42.6352,16.0241 9.2912,3.3992 22.6851,8.4926 29.7642,11.3188 7.079,2.8261 19.3869,7.5527 27.3509,10.5035 20.2993,7.5214 61.577,23.0088 90.0971,33.8043 13.2732,5.0243 34.269,12.9325 46.6574,17.5738 31.0111,11.6182 32.5112,12.3295 43.4396,20.5984 28.2135,21.3473 68.7536,70.3634 94.1097,113.7857 3.8695,6.6265 73.1234,110.9888 153.8977,231.9161 80.7743,120.9273 147.0679,220.6119 147.3192,221.5211 0.2515,0.9093 -40.8106,31.9685 -91.2489,69.0204 -50.4383,37.0519 -97.8599,71.8905 -105.3814,77.419 -7.5215,5.5284 -24.1734,17.7642 -37.0042,27.1905 -12.8307,9.4264 -29.8446,21.9418 -37.8086,27.8121 -49.6526,36.5997 -66.1735,48.8049 -67.7948,50.0851 -1.9121,1.51 -13.3612,-13.3379 -54.4798,-70.6534 -11.5034,-16.0348 -21.7528,-29.1994 -22.7762,-29.2546 -1.3278,-0.072 -1.7023,4.623 -1.3079,16.3906 1.8831,56.1795 2.8856,99.4403 6.4409,277.9335 8.4102,422.2541 8.5011,426.6549 11.2415,544.6047 0.4523,19.4674 1.1661,44.4452 1.5864,55.5062 0.42,11.061 1.4801,59.9307 2.3557,108.5992 0.8754,48.6685 1.9847,99.7638 2.4651,113.545 l 0.8735,25.0568 -15.7238,1.9876 c -8.6482,1.0932 -25.1358,3.3484 -36.6392,5.0117 -21.0551,3.0443 -81.6272,9.6535 -117.448,12.8151 -16.7227,1.4759 -30.5655,2.8009 -59.7313,5.7172 -36.0232,3.6019 -147.7218,9.7953 -216.9954,12.0318 -55.4615,1.7907 -275.6856,1.7461 -332.6155,-0.068 z"
@@ -121,8 +127,11 @@
     </g>
     <g
        id="g9738"
-       transform="matrix(1.1091958,0,0,1.1091958,4994.1067,-2944.4019)"
-       style="fill:#333333;fill-opacity:1">
+       transform="matrix(0.44675895,0,0,0.44675895,1339.2287,-914.89426)"
+       style="fill:#333333;fill-opacity:1"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160">
       <path
          inkscape:connector-curvature="0"
          id="path9720"
@@ -177,7 +186,10 @@
      transform="translate(1125.6846,-3185.5844)">
     <g
        id="g8065"
-       transform="translate(-373.80273,33.079888)">
+       transform="matrix(0.40277736,0,0,0.40277736,-822.84362,1915.827)"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160">
       <g
          style="display:inline;fill:#333333;fill-opacity:1"
          transform="matrix(1.1091958,0,0,1.1091958,472.08612,-278.81843)"
@@ -315,8 +327,11 @@
            y="953.62512" /></flowRegion><flowPara
          id="flowPara7881" /></flowRoot>    <g
        style="fill:#808080"
-       transform="matrix(0.43641543,0,0,0.43641543,2208.9212,4924.4176)"
-       id="g7961">
+       transform="matrix(0.17577826,0,0,0.17577826,217.4191,3885.947)"
+       id="g7961"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160">
       <g
          style="fill:#808080"
          id="g7943" />
@@ -361,7 +376,11 @@
       </g>
     </g>
     <g
-       id="g9700">
+       id="g9700"
+       transform="matrix(0.40277736,0,0,0.40277736,-672.28434,1902.5031)"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160">
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:233.58831787px;line-height:1.25;font-family:Akashi;-inkscape-font-specification:'Akashi, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.58397079"
@@ -409,7 +428,10 @@
     </g>
     <g
        id="g9718"
-       transform="translate(2474.3756,-13.231955)">
+       transform="matrix(0.40277736,0,0,0.40277736,324.33816,1897.1736)"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160">
       <text
          id="text9704"
          y="4284.1631"
@@ -456,10 +478,13 @@
            sodipodi:role="line">PING</tspan></text>
     </g>
     <g
-       transform="matrix(1.8570524,0,0,1.8570524,4488.8916,4271.2611)"
+       transform="matrix(0.74797868,0,0,0.74797868,1135.7395,3622.8704)"
        id="layer1-5"
        inkscape:label="Layer 1"
-       style="fill:#808080">
+       style="fill:#808080"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160">
       <g
          id="g3339"
          style="fill:#808080">
@@ -502,36 +527,45 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:578.46697998px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:14.46167469"
-       x="-1155.3312"
-       y="3607.2891"
-       id="text16447"><tspan
+       style="font-style:normal;font-weight:normal;font-size:232.9934082px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.82483482"
+       x="-1137.6255"
+       y="3355.4375"
+       id="text16447"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160"><tspan
          sodipodi:role="line"
          id="tspan16445"
-         x="-1155.3312"
-         y="3607.2891"
-         style="stroke-width:14.46167469">1</tspan></text>
+         x="-1137.6255"
+         y="3355.4375"
+         style="stroke-width:5.82483482">1</tspan></text>
     <text
        id="text16451"
-       y="3644.7146"
-       x="1230.5521"
-       style="font-style:normal;font-weight:normal;font-size:578.46697998px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:14.46167469"
-       xml:space="preserve"><tspan
-         style="stroke-width:14.46167469"
-         y="3644.7146"
-         x="1230.5521"
+       y="3370.5117"
+       x="-176.64583"
+       style="font-style:normal;font-weight:normal;font-size:232.9934082px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.82483482"
+       xml:space="preserve"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160"><tspan
+         style="stroke-width:5.82483482"
+         y="3370.5117"
+         x="-176.64583"
          id="tspan16449"
          sodipodi:role="line">2</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:578.46697998px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:14.46167469"
-       x="3831.6328"
-       y="3682.1401"
-       id="text16455"><tspan
+       style="font-style:normal;font-weight:normal;font-size:232.9934082px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:5.82483482"
+       x="871.01056"
+       y="3385.5857"
+       id="text16455"
+       inkscape:export-filename="/home/zesty/Merch/Designs/MakerAttire/PNGFiles/JustKeepShipping.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160"><tspan
          sodipodi:role="line"
          id="tspan16453"
-         x="3831.6328"
-         y="3682.1401"
-         style="stroke-width:14.46167469">3</tspan></text>
+         x="871.01056"
+         y="3385.5857"
+         style="stroke-width:5.82483482">3</tspan></text>
   </g>
 </svg>

@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.10045076"
-     inkscape:cx="3665.5268"
-     inkscape:cy="-1075.8366"
+     inkscape:zoom="0.14205883"
+     inkscape:cx="661.42329"
+     inkscape:cy="-952.61283"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1276"
-     inkscape:window-height="1365"
+     inkscape:window-width="2556"
+     inkscape:window-height="1347"
      inkscape:window-x="0"
-     inkscape:window-y="54"
+     inkscape:window-y="72"
      inkscape:window-maximized="0"
      inkscape:snap-page="false"
      inkscape:snap-grids="true"
@@ -404,11 +404,10 @@
       </g>
     </g>
     <g
-       id="g37583"
-       transform="translate(-1188.2054,8403.891)">
+       id="g3830">
       <g
          style="display:inline"
-         transform="translate(1049.6009,-570.90896)"
+         transform="translate(-138.6045,7832.982)"
          id="layer1-7"
          inkscape:label="Shirt">
         <g
@@ -463,51 +462,54 @@
         </g>
       </g>
       <g
-         transform="translate(1049.6009,-3302.6523)"
-         inkscape:label="Content"
-         id="layer2-2">
-        <text
-           id="text1241-5"
-           y="4562.3052"
-           x="171.09123"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:487.03665161px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.26151776"
-           xml:space="preserve"><tspan
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:487.02865601px;font-family:'Origami Mommy';-inkscape-font-specification:'Origami Mommy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.26151776"
-             y="4562.3052"
-             x="171.09123"
-             id="tspan1239-3"
-             sodipodi:role="line">i</tspan></text>
+         transform="translate(-24.933129)"
+         id="g3807">
         <g
-           style="fill:#ff0000"
-           id="layer1-6-9"
-           transform="matrix(3.2809679,0,0,3.2809679,196.70556,2746.6399)">
-          <path
-             style="fill:#ff0000"
-             inkscape:connector-curvature="0"
-             id="path3840-7-1"
-             d="m 211.04,412.01 -34.25,25.781 v 41.594 l 77.469,87.625 77.531,-87.625 v -41.594 l -34.25,-25.781 -43.281,28.719 z m -1.3438,16.812 7.5625,10.062 -11.781,8.8438 v 10.75 h -12.594 v -17.031 l 16.812,-12.625 z" />
+           id="g3796"
+           transform="translate(-20.338002)">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:487.03665161px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.26151776"
+             x="164.96208"
+             y="9685.1582"
+             id="text1241-5"><tspan
+               sodipodi:role="line"
+               id="tspan1239-3"
+               x="164.96208"
+               y="9685.1582"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:487.02865601px;font-family:'Origami Mommy';-inkscape-font-specification:'Origami Mommy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:2.26151776">i</tspan></text>
+          <g
+             transform="matrix(2.9732832,0,0,2.9732832,144.29072,8054.1329)"
+             id="layer1-6-9"
+             style="fill:#ff0000">
+            <path
+               d="m 211.04,412.01 -34.25,25.781 v 41.594 l 77.469,87.625 77.531,-87.625 v -41.594 l -34.25,-25.781 -43.281,28.719 z m -1.3438,16.812 7.5625,10.062 -11.781,8.8438 v 10.75 h -12.594 v -17.031 l 16.812,-12.625 z"
+               id="path3840-7-1"
+               inkscape:connector-curvature="0"
+               style="fill:#ff0000" />
+          </g>
         </g>
         <text
            id="text1237-8"
-           y="5162.3877"
-           x="192.04704"
+           y="10365.814"
+           x="51.56905"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:351.10806274px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.63034344"
            xml:space="preserve"><tspan
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:351.10229492px;font-family:'Origami Mommy';-inkscape-font-specification:'Origami Mommy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.63034344"
-             y="5162.3877"
-             x="192.04704"
+             y="10365.814"
+             x="51.56905"
              id="tspan1235-8"
              sodipodi:role="line">wins</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:277.41287231px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.28814566"
-           x="192.57431"
-           y="4840.4141"
+           x="58.665459"
+           y="9997.8369"
            id="text1389"><tspan
              sodipodi:role="line"
              id="tspan1387"
-             x="192.57431"
-             y="4840.4141"
+             x="58.665459"
+             y="9997.8369"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:277.4083252px;font-family:'Origami Mommy';-inkscape-font-specification:'Origami Mommy, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:1.28814566">small</tspan></text>
       </g>
     </g>
